@@ -1,1 +1,41 @@
 @charset "utf-8";
+    .icon {
+       width: 1em; height: 1em;
+       vertical-align: -0.15em;
+       fill: currentColor;
+       overflow: hidden;
+    }
+    .em5{
+        width: 2rem;
+        height: 2rem;
+        position: relative;
+        bottom: -4px;
+    }
+
+
+.jb {
+    background-color: rgba(0,0,0,0.05);
+}
+.news24  .list-group-item-secondary {
+    background-color: rgba(0,0,0,0.05);
+}
+.cyc .form-control {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.cyc .btn {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.article .border-left {
+    border-left-width: 5px !important;
+    border-left-color: rgba(0,0,0,0.1) !important;
+}
+.yzm .form-control {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.yzm .btn {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
